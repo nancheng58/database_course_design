@@ -31,7 +31,7 @@
 ![学生](./figure/student.png)
 
 输入教师账户密码即可跳转到教师界面
-![教师](./figure/teacher.png)
+![教师](https://github.com/Leirss/database_course_design/blob/master/figure/teacher.png)
 
 输入管理员账户密码即可跳转到学生界面
 ![管理员](./figure/admin.png)
